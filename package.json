@@ -1,0 +1,25 @@
+{
+  "name": "fantasy-quest-adventure",
+  "version": "1.0.0",
+  "description": "Fantasy Quest Adventure: Realm of Legends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siowsa/Fantasy-Quest-Adventure"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "redux": "^4.1.0",
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "express": "^4.17.1",
+    "space-adventure-game": "1.0.0"
+  }
+}

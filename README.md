@@ -1,0 +1,3 @@
+Fantasy Quest Adventure: Realm of Legends
+
+Enter the enchanting realm of "Realm of Legends," where heroes are forged and monsters roam freely. As a valiant adventurer, your quest is to vanquish the darkness that plagues the land and restore peace to the kingdom. Armed with legendary weapons and magical artifacts, journey through mystical forests, ominous dungeons, and forbidding mountains. Encounter mythical creatures and cunning foes as you uncover ancient secrets and unravel the mysteries of the realm. Will you rise as a legendary hero or be consumed by the shadows that lurk within?
